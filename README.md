@@ -1,4 +1,14 @@
-## Hi there 👋
+
+# Hi, my name's Mirada
+
+
+## 🚀 About me
+I'm a backend,frontend programming enthusiast
+
+
+## 🛠 Ive already worked with...
+C, Javascript, HTML, CSS, Java, Python
+
 
 <!--
 **fnmiranda/fnmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
