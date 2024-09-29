@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fnmiranda/fnmiranda/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/fnmiranda/fnmiranda/blob/main/snake.yml" alt="Snake animation" />
 
 ###
