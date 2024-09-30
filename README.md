@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Miranda and I'm enthusiast of the programming world</h2>
+<h2 align="left">Full Stack Develloper</h2>
 
 ###
 
