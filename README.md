@@ -1,10 +1,21 @@
 <h2 align="left">Full Stack Dev</h2>
 
 <div align="center">
-  👨‍💻 Hi! I'm a passionate programmer who loves building useful and creative software.
-  💡 I enjoy working on personal projects, learning new technologies, and solving real-world problems with code.
-  🌱 Currently exploring game development, web apps, and AI.
-  📫 Feel free to check out my projects and reach out if you'd like to collaborate!
+  <p>
+    👨‍💻 Hi! I'm a passionate programmer who loves building useful and creative software.
+  </p> 
+  <p>
+    💡 I enjoy working on personal projects, learning new technologies, and solving real-world problems with code.
+    
+  </p>
+  <p>
+    🌱 Currently exploring game development, web apps, and AI.
+    
+  </p>
+  <p>
+    📫 Feel free to check out my projects and reach out if you'd like to collaborate!
+    
+  </p>
 </div>
 
 ###
@@ -42,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
 </div>
 
-<div align="center" class="mt-4">
+<div align="center" class="mt-8">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
