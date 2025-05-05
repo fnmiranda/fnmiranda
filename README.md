@@ -1,6 +1,6 @@
 <h2 align="left">Full Stack Dev</h2>
 
-<div align="center">
+<div align="center" class="shadow text-center font-sans">
   <p>
     👨‍💻 Hi! I'm a passionate programmer who loves building useful and creative software.
   </p> 
