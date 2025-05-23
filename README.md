@@ -5,7 +5,7 @@
     👨‍💻 Hi! I'm a passionate programmer who loves building useful and creative software.
   </p> 
   <p>
-    💡 I enjoy working on personal projects, learning new technologies, and solving real-world problems with code.
+    💡 I enjoy learning new technologies, and solving real-world problems with code.
     
   </p>
   <p>
