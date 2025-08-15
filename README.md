@@ -67,7 +67,6 @@
 - 📱 **[appList](https://github.com/fnmiranda/appList)** — app **Expo / React Native** (create-expo-app) com navegação e setup de build (TypeScript), pronto para evoluir em Android, iOS e Web.  
 - 🌐 **[ca_oculto](https://github.com/fnmiranda/ca_oculto)** — site estático em **HTML/CSS**, múltiplas páginas e estilos, ideal para publicar via GitHub Pages.
 
-> Dica: adicione “About/Topics” nos repositórios e um badge de deploy (Vercel/Pages) para destacar.
 
 ---
 
