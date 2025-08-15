@@ -2,8 +2,8 @@
 
 <p align="left">
   🇧🇷/🇬🇧 Olá! Eu sou o Francisco — desenvolvedor full stack que curte transformar ideias em software útil e bonito.<br/>
-  🎓 Estudante de Engenharia no IME, com formação técnica em Automação Industrial e experiência prática em <b>treinamento/avaliação de IA</b>.<br/>
-  🧠 Premiado em olimpíadas acadêmicas de raciocínio lógico. Nativo em português, fluente em inglês.
+  🎓 Estudante de Engenharia no IME, Experiência prática em <b>treinamento/avaliação de IA</b>.<br/>
+  🧠 Premiado em olimpíadas acadêmicas de Matemática e Física. Nativo em português, fluente em inglês.
 </p>
 
 ---
@@ -63,11 +63,11 @@
 ---
 
 ### 🏗️ Projetos em destaque
-> Troque os links abaixo pelos seus repositórios/páginas.
+- 🧭 **[tutor_project](https://github.com/fnmiranda/tutor_project)** — app web com **Next.js** (create-next-app), base para features full stack e UI moderna (TS/JS/CSS).  
+- 📱 **[appList](https://github.com/fnmiranda/appList)** — app **Expo / React Native** (create-expo-app) com navegação e setup de build (TypeScript), pronto para evoluir em Android, iOS e Web.  
+- 🌐 **[ca_oculto](https://github.com/fnmiranda/ca_oculto)** — site estático em **HTML/CSS**, múltiplas páginas e estilos, ideal para publicar via GitHub Pages.
 
-- 🧭 **[Nome do Projeto A](https://github.com/fnmiranda/SEU_REPO_A)** — breve descrição do que faz, stack e resultado.
-- 🤖 **[Nome do Projeto B](https://github.com/fnmiranda/SEU_REPO_B)** — destaque a parte de IA/automação/algoritmos.
-- 🕹️ **[Nome do Projeto C](https://github.com/fnmiranda/SEU_REPO_C)** — protótipo de jogo/webapp, principais features.
+> Dica: adicione “About/Topics” nos repositórios e um badge de deploy (Vercel/Pages) para destacar.
 
 ---
 
@@ -98,13 +98,13 @@
 
 ### 📨 Contato
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:r20franciscomiranda@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"/>
   </a>
   <a href="https://discord.com/users/SEU_ID_OU_CONVITE">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO/">
+  <a href="https://www.linkedin.com/in/francisco-miranda-55a93437a//">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"/>
   </a>
 </div>
