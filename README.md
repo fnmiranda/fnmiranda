@@ -7,13 +7,6 @@
 
 ---
 
-### 🚀 O que estou fazendo agora
-- 🌱 Explorando <b>dev de jogos</b>, <b>aplicações web</b> e <b>IA/LLMs</b> (workflow de dados e avaliação).
-- 🧩 Construindo projetos full stack focados em utilidade, performance e DX.
-- 🤝 Aberto a colaborações em projetos open-source e produtos early-stage.
-
----
-
 ### 🧰 Tech Stack (mais usado)
 <div align="center">
   <!-- linguagens / runtime -->
