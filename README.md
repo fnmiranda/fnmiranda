@@ -2,8 +2,7 @@
 
 <p align="left">
   🇧🇷/🇬🇧 Olá! Eu sou o Francisco — desenvolvedor full stack que curte transformar ideias em software útil e bonito.<br/>
-  🎓 Estudante de Engenharia no IME, Experiência prática em <b>treinamento/avaliação de IA</b>.<br/>
-  🧠 Premiado em olimpíadas acadêmicas de Matemática e Física. Nativo em português, inglês intermediário.
+  🎓 Estudante de Engenharia no IME.<br/>
 </p>
 
 ---
@@ -57,7 +56,7 @@
 
 ### 🧪 Interesses atuais
 - Sistemas interativos (jogos/prototipagem), UIs reativas e design system.
-- Pipelines de dados para avaliação de modelos e produtos com IA.
+- Pipelines de dados para avaliação de modelos com IA.
 - Boas práticas de engenharia: testes, automação e observabilidade.
 
 ---
