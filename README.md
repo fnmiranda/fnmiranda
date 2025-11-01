@@ -71,7 +71,7 @@
     <img src="https://komarev.com/ghpvc/?username=fnmiranda&style=for-the-badge" height="28" alt="profile views"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats"/>
+    <img clasname{{margin-right: 10px}} src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fnmiranda&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top languages"/>
   </p>
   <p align="center">
