@@ -51,9 +51,9 @@
 ---
 
 ### 🏗️ Destaques
-- 🧭 **[tutor_project](https://github.com/fnmiranda/tutor_project)** · base full-stack com **Next.js** + UI moderna (TS/JS/CSS).
-- 📱 **[appList](https://github.com/fnmiranda/appList)** · **Expo / React Native** (TypeScript) pronto para Android, iOS e Web.
-- 🌐 **[ca_oculto](https://github.com/fnmiranda/ca_oculto)** · site estático **HTML/CSS** multi-páginas (ideal p/ GitHub Pages).
+- 🧭 **[Tuno](https://github.com/fnmiranda/tutor_project)** · base full-stack com **Next.js** + UI moderna (TS/JS/CSS).
+- 📱 **[Command List](https://github.com/fnmiranda/appList)** · **Expo / React Native** (TypeScript) pronto para Android, iOS e Web.
+- 🌐 **[Corpo Pedagógico](https://github.com/fnmiranda/ca_oculto)** · site estático **HTML/CSS** multi-páginas (ideal p/ GitHub Pages).
 
 ---
 
