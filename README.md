@@ -1,6 +1,6 @@
-<h2 align="center">Francisco Miranda — Full-Stack Dev</h2>
+<!-- <h2 align="center"></h2> -->
 <p align="center">
-  🇧🇷/🇬🇧 Dev full stack que transforma ideias em software útil e bonito.<br/>
+  🇧🇷/🇬🇧 transformar ideias em software úteis<br/>
   🎓 Engenharia no IME • 🔧 Builder • 🧩 Problem Solver
 </p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🔧 Stack (dia a dia)
+### 🔧 Tech
 <p align="center">
   <!-- linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript"/>
