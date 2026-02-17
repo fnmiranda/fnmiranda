@@ -47,7 +47,7 @@
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux"/>
   <img width="8"/>
-  <img src="/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2Fc558c5d22e52%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=256&q=75" height="28" alt="Supabase" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="28" alt="Supabase" >
 </p>
 
 ---
