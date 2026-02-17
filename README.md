@@ -1,7 +1,7 @@
 <!-- <h2 align="center"></h2> -->
 <p align="center">
   🇧🇷/🇬🇧 transformar ideias em software úteis<br/>
-  🎓 Engenharia no IME • 🔧 Builder • 🧩 Problem Solver
+  🎓 Engenharia no IME •
 </p>
 
 <p align="center">
@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git"/>
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.96.0/dist/umd/supabase.min.js" height="28" alt="Supabase" >
 </p>
 
 ---
@@ -54,7 +56,7 @@
 - 🧭 **[Tuno](https://github.com/fnmiranda/tutor_project)** · base full-stack com **Next.js** + UI moderna (TS/JS/CSS).
 - 📱 **[Command List](https://github.com/fnmiranda/appList)** · **Expo / React Native** (TypeScript) pronto para Android, iOS e Web.
 - 🌐 **[Corpo Pedagógico](https://github.com/fnmiranda/ca_oculto)** · site estático **HTML/CSS** multi-páginas (ideal p/ GitHub Pages).
-
+- 🐍 **[Python](https://github.com/fnmiranda/python-libs)** · projetos simples usando libs em python para se divertir e resolver alguns problemas do meu dia a dia.
 ---
 
 ### 🧪 No radar
