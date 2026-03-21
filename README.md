@@ -15,7 +15,7 @@
 
 
 ### 🔧 Tech
-<p align="center">
+<p align="center" width="100%">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,ts,js,python,java,c,cpp,react,html,css,django,mysql,sqlite,firebase,git,linux,supabase" />
   </a>
