@@ -13,41 +13,10 @@
 
 ---
 
+
 ### 🔧 Tech
 <p align="center">
-  <!-- linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="C"/>
-  <!-- web -->
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React/React Native"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="28" alt="Django"/>
-  <!-- dados -->
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="28" alt="SQLite"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="Firebase"/>
-  <!-- ferramentas -->
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="28" alt="Supabase" >
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,react,html,css,django,mysql,sqLite,firebase,git,linux,supabase" />
 </p>
 
 ---
@@ -59,9 +28,7 @@
 - 🐍 **[Python](https://github.com/fnmiranda/python-libs)** · projetos simples usando libs em python para se divertir e resolver alguns problemas do meu dia a dia.
 -  **[Python](https://github.com/fnmiranda/python-libs)** · projetos simples usando libs em python para se divertir e resolver alguns problemas do meu dia a dia.
 ---
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+
 ### 🧪 No radar
 - UIs reativas, design systems e prototipagem rápida.
 - Pipelines de dados p/ avaliação de modelos de IA.
