@@ -57,8 +57,11 @@
 - 📱 **[Command List](https://github.com/fnmiranda/appList)** · **Expo / React Native** (TypeScript) pronto para Android, iOS e Web.
 - 🌐 **[Corpo Pedagógico](https://github.com/fnmiranda/ca_oculto)** · site estático **HTML/CSS** multi-páginas (ideal p/ GitHub Pages).
 - 🐍 **[Python](https://github.com/fnmiranda/python-libs)** · projetos simples usando libs em python para se divertir e resolver alguns problemas do meu dia a dia.
+-  **[Python](https://github.com/fnmiranda/python-libs)** · projetos simples usando libs em python para se divertir e resolver alguns problemas do meu dia a dia.
 ---
-
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 ### 🧪 No radar
 - UIs reativas, design systems e prototipagem rápida.
 - Pipelines de dados p/ avaliação de modelos de IA.
