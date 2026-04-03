@@ -30,12 +30,6 @@
 - 🐍 **[Python](https://github.com/fnmiranda/python-libs)** · projetos simples usando libs em python para se divertir e resolver alguns problemas do meu dia a dia.
 ---
 
-### 🧪 No radar
-- UIs reativas, design systems e prototipagem rápida.
-- Pipelines de dados p/ avaliação de modelos de IA.
-- Testes, automação e observabilidade.
-
----
 
 <details>
   <summary>📊 Métricas</summary>
@@ -54,10 +48,3 @@
   <!-- <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fnmiranda&theme=dracula&hide_border=true" alt="activity graph"/></p> -->
   <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=fnmiranda&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" height="120" alt="trophies"/></p> -->
 </details>
-
----
-
-### 📎 Extras
-- 📚 Documentação leve de decisões e repositórios reproduzíveis.
-- 🧭 Aberto a feedbacks e code reviews.
-- 💬 Bora trocar ideia sobre produto/carreira/ideias.
