@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:r20franciscomiranda@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/francisco-miranda-55a93437a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for
+  <a href="https://www.linkedin.com/in/francisco-miranda-55a93437a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for"/>
 </p>
 
 ---
