@@ -97,7 +97,6 @@ Collection of Python projects and experiments focused on programming, automation
 <details>
   <summary>📊 GitHub Stats</summary>
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=fnmiranda&theme=dark)](https://git.io/streak-stats)
   <p align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&theme=dracula"
