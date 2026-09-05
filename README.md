@@ -97,11 +97,12 @@ Collection of Python projects and experiments focused on programming, automation
 <details>
   <summary>📊 GitHub Stats</summary>
   <br/>
+
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&theme=dracula"
-      height="150"
-      alt="GitHub Stats"
+      src="https://github-stats-extended.vercel.app/api?username=fnmiranda&show_icons=true&include_all_commits=true&theme=dracula"
+      height="160"
+      alt="Francisco's GitHub Stats"
     />
   </p>
 </details>
