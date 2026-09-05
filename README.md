@@ -1,48 +1,116 @@
-<!-- <h2 align="center"></h2> -->
+<h1 align="center">Francisco Miranda</h1>
+
 <p align="center">
-  🇧🇷/🇬🇧 transformar ideias em software úteis<br/>
-  🎓 Engenharia no IME •
+  <strong>Software Developer • Communication Engineering Student at IME</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:r20franciscomiranda@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/francisco-miranda-55a93437a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for"/>
+  Building software, exploring systems, and applying engineering to real-world problems.
 </p>
 
----
-
-
-### 🔧 Tech
-<p align="center" width="100%">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,ts,js,python,java,c,cpp,qt,react,html,css,tailwind,django,mysql,sqlite,firebase,git,linux,supabase" />
+<p align="center">
+  <a href="mailto:r20franciscomiranda@gmail.com">
+    <img
+      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/francisco-miranda-55a93437a/">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+    />
   </a>
 </p>
 
 ---
 
-### 🏗️ Destaques
-- 🧭 **[Tuno](https://github.com/fnmiranda/tutor_project)** · base full-stack com **Next.js** + UI moderna (TS/JS/CSS).
-- 📱 **[Command List](https://github.com/fnmiranda/appList)** · **Expo / React Native** (TypeScript) Android, iOS.
-- 🌐 **[Corpo Pedagógico](https://github.com/fnmiranda/ca_oculto)** · site estático **HTML/CSS** multi-páginas.
-- 🐍 **[Python](https://github.com/fnmiranda/python-libs)** · projetos python
+## 👨‍💻 About me
+
+Engineering student at the **Military Institute of Engineering (IME)** with experience in **software development, web applications, databases, and computer networks**.
+
+I enjoy building software from the ground up, understanding how systems work internally, and applying programming to engineering problems.
+
+My current interests include:
+
+- Software Engineering
+- Backend and Full-Stack Development
+- Computer Networks
+- Telecommunications
+- Systems Programming
+- Algorithms and Data Structures
+
 ---
 
+## 🔧 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=arch,ts,js,python,java,c,cpp,qt,react,html,css,tailwind,django,mysql,sqlite,firebase,git,linux,supabase"
+    />
+  </a>
+</p>
+
+**Languages:** C, C++, Python, Java, JavaScript, TypeScript  
+**Frontend:** React, React Native, HTML, CSS, Tailwind CSS  
+**Backend & Databases:** Django, MySQL, SQLite, Firebase, Supabase  
+**Tools & Systems:** Git, GitHub, Linux, Qt
+
+---
+
+## 🚀 Featured Projects
+
+### 📡 [Telecom Projects](https://github.com/fnmiranda/telecom-projects)
+
+Collection of engineering projects related to **telecommunications, signals, and communication systems**, combining theoretical concepts with computational simulations and implementations.
+
+`Telecommunications` `Signal Processing` `Engineering` `MATLAB` `Programming`
+
+---
+
+### 📱 [Command List](https://github.com/fnmiranda/appList)
+
+Cross-platform mobile application developed with **React Native, Expo, and TypeScript**, targeting Android and iOS.
+
+`React Native` `Expo` `TypeScript` `Mobile Development`
+
+---
+
+### 🌐 [Corpo Pedagógico](https://github.com/fnmiranda/ca_oculto)
+
+Multi-page web project developed with **HTML and CSS**, focused on structuring and presenting institutional content.
+
+`HTML` `CSS` `Web Development`
+
+---
+
+### 🐍 [Python Projects](https://github.com/fnmiranda/python-libs)
+
+Collection of Python projects and experiments focused on programming, automation, algorithms, and problem-solving.
+
+`Python` `Algorithms` `Automation`
+
+---
+
+## 📊 GitHub
 
 <details>
-  <summary>📊 Métricas</summary>
+  <summary>View GitHub statistics</summary>
+
   <br/>
+
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=fnmiranda&style=for-the-badge" height="28" alt="profile views"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+      height="150"
+      alt="GitHub statistics"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=fnmiranda&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false"
+      height="150"
+      alt="Most used languages"
+    />
   </p>
-  <p align="center" >
-    <img style={{margin-right:'10px'}} src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fnmiranda&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top languages"/>
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=fnmiranda&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
-  </p>
-  <!-- Ative o workflow antes de usar o gráfico de atividade -->
-  <!-- <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fnmiranda&theme=dracula&hide_border=true" alt="activity graph"/></p> -->
-  <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=fnmiranda&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" height="120" alt="trophies"/></p> -->
+
 </details>
