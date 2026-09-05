@@ -94,23 +94,15 @@ Collection of Python projects and experiments focused on programming, automation
 ---
 
 ## 📊 GitHub
-
 <details>
-  <summary>View GitHub statistics</summary>
-
+  <summary>📊 GitHub Stats</summary>
   <br/>
 
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+      src="https://github-readme-stats.vercel.app/api?username=fnmiranda&show_icons=true&theme=dracula"
       height="150"
-      alt="GitHub statistics"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=fnmiranda&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false"
-      height="150"
-      alt="Most used languages"
+      alt="GitHub Stats"
     />
   </p>
-
 </details>
